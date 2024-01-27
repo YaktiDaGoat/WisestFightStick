@@ -1,0 +1,4 @@
+https://jlcpcb.com/partdetail/Jghc-S712000201040/C555582 (Crystal)
+https://jlcpcb.com/partdetail/WinbondElec-W25Q128JVSIQ/C113767 (QSPI)
+https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040 (RP2040)
+https://jlcpcb.com/partdetail/TexasInstruments-TPS54202DDCR/C191884 (Buck Converter)
