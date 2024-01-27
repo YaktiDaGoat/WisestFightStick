@@ -1,0 +1,36 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 77c27d81-422e-4819-b135-4dc692080835)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Hello! Welcome to my PCB schematic" (at 80.264 44.958 0)
+    (effects (font (face "Freestyle Script") (size 10 10)) (justify left bottom))
+    (uuid 64eb1007-4699-4479-bb96-7196d2212116)
+  )
+
+  (sheet (at 43.688 69.342) (size 43.688 32.512) (fields_autoplaced)
+    (stroke (width 1) (type solid) (color 0 0 255 1))
+    (fill (color 255 0 255 1.0000))
+    (uuid 799b0761-de53-4304-bdf3-ca18f0f77725)
+    (property "Sheetname" "RP2040" (at 43.688 67.3416 0)
+      (effects (font (size 3 3) bold) (justify left bottom))
+    )
+    (property "Sheetfile" "RP2040.kicad_sch" (at 43.688 102.8624 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Fighstick_Raspi_Wisest"
+        (path "/77c27d81-422e-4819-b135-4dc692080835" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
